@@ -5,7 +5,7 @@ Supply IP list and get IPs paired with domains in CSV like in usage example belo
 ## Install
 
 ```bash
-go get https://github.com/malacupa/d2ip
+go get github.com/malacupa/d2ip
 ```
 
 ## Usage
